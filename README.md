@@ -2,16 +2,18 @@
 
 ## Kattis Problems
 
-| Problem                                                           | Level | Language |
-| ----------------------------------------------------------------- | ----- | -------- |
-| [A Different Problem](https://open.kattis.com/problems/different) | Easy  | Java     |
-| [File Extension](https://open.kattis.com/problems/fileextension)  | Easy  | C++      |
-| [Hello World](https://open.kattis.com/problems/hello)             | Easy  | Java     |
-| [hipphipphurra](https://open.kattis.com/problems/hipphipphurra)   | Easy  | Go       |
-| [Solving for Carrots](https://open.kattis.com/problems/carrots)   | Easy  | Java     |
-| [Take Two Stones](https://open.kattis.com/problems/taketwostones) | Easy  | Java     |
-| [Tarifa](https://open.kattis.com/problems/tarifa)                 | Easy  | Java     |
-| [telja](https://open.kattis.com/problems/telja)                   | Easy  | Go       |
+| Problem                                                                | Level  | Language |
+| ---------------------------------------------------------------------- | ------ | -------- |
+| [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | Medium | Python   |
+| [A Different Problem](https://open.kattis.com/problems/different)      | Easy   | Java     |
+| [File Extension](https://open.kattis.com/problems/fileextension)       | Easy   | C++      |
+| [Hello World](https://open.kattis.com/problems/hello)                  | Easy   | Java     |
+| [hipphipphurra](https://open.kattis.com/problems/hipphipphurra)        | Easy   | Go       |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots)        | Easy   | Java     |
+| [Take Two Stones](https://open.kattis.com/problems/taketwostones)      | Easy   | Java     |
+| [Tarifa](https://open.kattis.com/problems/tarifa)                      | Easy   | Java     |
+| [telja](https://open.kattis.com/problems/telja)                        | Easy   | Go       |
+| [unfairplay](https://open.kattis.com/problems/unfairplay)              | Hard   | Python   |
 
 ## LeetCode Problems
 
