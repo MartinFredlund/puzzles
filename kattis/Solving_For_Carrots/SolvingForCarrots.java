@@ -6,8 +6,9 @@ public class SolvingForCarrots {
         int y = scan.nextInt();
         for(int i = 0; i < x; i++)
         {
-            String p = scan.next();
+            scan.next();
         }
         System.out.println(y);
+        scan.close();
     }
 }

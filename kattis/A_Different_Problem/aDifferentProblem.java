@@ -7,5 +7,6 @@ public class aDifferentProblem {
             long nbr2 = scan.nextLong();
             System.out.println(Math.abs(nbr1-nbr2));
         }
+        scan.close();
     }
 }

@@ -9,5 +9,6 @@ public class takeTwoStones {
         else { 
             System.out.print("Alice");
         }
+        scan.close();
     }
 }

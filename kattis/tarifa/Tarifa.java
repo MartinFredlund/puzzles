@@ -11,5 +11,6 @@ public class Tarifa {
         }
         
         System.out.print(p + x);
+        scan.close();
     }
 }
