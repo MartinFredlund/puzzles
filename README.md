@@ -29,9 +29,17 @@
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                | Easy   | Go       |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                | Medium | Python   |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                      | Easy   | C        |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                         | Easy   | Python   |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                               | Easy   | Python   |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                   | Easy   | Python   |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                   | Easy   | Python   |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                           | Easy   | Python   |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                   | Medium | Python   |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                 | Easy   | Python   |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                       | Easy   | Python   |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                 | Easy   | Java     |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                         | Easy   | Go       |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                             | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                       | Easy   | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                 | Easy   | Go       |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                         | Easy   | Python   |
