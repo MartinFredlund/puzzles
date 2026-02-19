@@ -36,15 +36,22 @@
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                     | Easy   | Python   |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                     | Easy   | Python   |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | Easy   | Python   |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       | Medium | Python   |
+| [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                             | Medium | Python   |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium | Python   |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy   | Python   |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy   | Python   |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                   | Medium | Python   |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python   |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)               | Medium | Python   |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy   | Java     |
+| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Medium | Python   |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | Easy   | Python   |
+| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                         | Easy   | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | Easy   | Python   |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                      | Easy   | Python   |
+| [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                              | Medium | Python   |
