@@ -52,7 +52,7 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy   | Java     |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
-| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Medium | Python   |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Easy   | Python   |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | Easy   | Python   |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                         | Easy   | Python   |
