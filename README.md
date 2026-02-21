@@ -32,13 +32,18 @@
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                        | Medium | Python   |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | Easy   | Python   |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 | Easy   | Python   |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium | Python   |
+| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)             | Medium | Python   |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | Easy   | Python   |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                     | Easy   | Python   |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                     | Easy   | Python   |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | Easy   | Python   |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       | Medium | Python   |
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)       | Medium | Python   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                             | Medium | Python   |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium | Python   |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                       | Medium | Python   |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Medium | Python   |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy   | Python   |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy   | Python   |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                   | Medium | Python   |
