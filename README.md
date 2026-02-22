@@ -29,6 +29,7 @@
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                  | Easy   | Go       |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                  | Medium | Python   |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                        | Easy   | C        |
+| [79. Word Search](https://leetcode.com/problems/word-search/)                                                                        | Medium | Python   |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                        | Medium | Python   |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | Easy   | Python   |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 | Easy   | Python   |
@@ -41,6 +42,7 @@
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       | Medium | Python   |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)       | Medium | Python   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                             | Medium | Python   |
+| [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                         | Medium | Python   |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium | Python   |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                       | Medium | Python   |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Medium | Python   |
@@ -52,11 +54,15 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy   | Java     |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
+| [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | Medium | Python   |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Easy   | Python   |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | Easy   | Python   |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                         | Easy   | Python   |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | Medium | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | Easy   | Python   |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium | Python   |
+| [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                                    | Medium | Python   |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                      | Easy   | Python   |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                              | Medium | Python   |
