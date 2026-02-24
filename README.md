@@ -59,6 +59,8 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy   | Java     |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
+| [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                         | Easy   | Python   |
+| [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | Easy   | Python   |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | Medium | Python   |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Easy   | Python   |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                       | Medium | Python   |
@@ -68,6 +70,7 @@
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                                     | Medium | Python   |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | Medium | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
+| [733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                         | Easy   | Python   |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                         | Medium | Python   |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | Easy   | Python   |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium | Python   |
