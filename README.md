@@ -47,7 +47,10 @@
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                       | Medium | Python   |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Medium | Python   |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/)                                                               | Medium | Python   |
+| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                                       | Medium | Python   |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                         | Medium | Python   |
+| [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)         | Medium | Python   |
+| [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                                                                 | Hard   | Python   |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy   | Python   |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy   | Python   |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                   | Medium | Python   |
@@ -62,6 +65,7 @@
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | Easy   | Python   |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                         | Easy   | Python   |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                                     | Medium | Python   |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | Medium | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                         | Medium | Python   |
