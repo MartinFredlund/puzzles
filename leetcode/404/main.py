@@ -15,13 +15,13 @@ class TreeNode:
 
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
-        return self.sum(root, False)
+        return self.helper(root, False)
 
-    def sum(self, node, left):
+    def helper(self, node, left):
         if not node:
             return 0
 
         if not node.left and not node.right:
             return node.val if left else 0
 
-        return self.sum(node.left, True) + self.sum(node.right, False)
+        return self.helper(node.left, True) + self.helper(node.right, False)
