@@ -60,6 +60,7 @@
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                         | Easy   | Python   |
+| [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Medium | Python   |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | Easy   | Python   |
 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | Medium | Python   |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Easy   | Python   |
@@ -72,8 +73,10 @@
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                         | Easy   | Python   |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                         | Medium | Python   |
+| [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)                                           | Medium | Python   |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                 | Medium | Python   |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | Easy   | Python   |
+| [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)                     | Medium | Python   |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium | Python   |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                | Medium | Python   |
 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                                    | Medium | Python   |
