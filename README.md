@@ -41,6 +41,7 @@
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | Easy   | Python   |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       | Medium | Python   |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)       | Medium | Python   |
+| [127. Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | Hard   | Python   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                             | Medium | Python   |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                         | Medium | Python   |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium | Python   |
@@ -78,6 +79,7 @@
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | Easy   | Python   |
 | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)                     | Medium | Python   |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium | Python   |
+| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                            | Medium | Python   |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                | Medium | Python   |
 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                                    | Medium | Python   |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                      | Easy   | Python   |
