@@ -25,6 +25,8 @@
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                 | Medium | Python   |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)   | Medium | Python   |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                         | Hard   | Python   |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                     | Medium | Python   |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                            | Medium | Python   |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                  | Medium | Python   |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                  | Easy   | Go       |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                  | Medium | Python   |
@@ -41,6 +43,7 @@
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | Easy   | Python   |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                       | Medium | Python   |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)       | Medium | Python   |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                              | Easy   | Python   |
 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                       | Hard   | Python   |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                             | Medium | Python   |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                         | Medium | Python   |
@@ -60,6 +63,7 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy   | Java     |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Easy   | Python   |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                         | Easy   | Python   |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Medium | Python   |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | Easy   | Python   |
@@ -80,8 +84,11 @@
 | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)                     | Medium | Python   |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Medium | Python   |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                            | Medium | Python   |
+| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                        | Easy   | Python   |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)                                | Medium | Python   |
 | [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)                                    | Medium | Python   |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                      | Easy   | Python   |
+| [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)            | Easy   | Python   |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                              | Medium | Python   |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                          | Easy   | Python   |
 | [1971. Find if Path Exists in a Graph](https://leetcode.com/problems/find-if-path-exists-in-a-graph/)                                | Easy   | Python   |
