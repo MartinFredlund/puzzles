@@ -71,6 +71,7 @@
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                               | Easy   | Python   |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                       | Medium | Python   |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                               | Easy   | Python   |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                            | Easy   | Python   |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | Easy   | Python   |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                         | Easy   | Python   |
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                                     | Medium | Python   |
