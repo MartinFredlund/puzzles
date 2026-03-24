@@ -66,6 +66,7 @@
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)                                                           | Easy   | Python   |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Easy   | Go       |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Easy   | Python   |
+| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                                 | Medium | Python   |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                         | Easy   | Python   |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                         | Easy   | Python   |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Medium | Python   |
