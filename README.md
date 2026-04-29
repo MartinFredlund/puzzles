@@ -68,6 +68,7 @@
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Easy   | Python   |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                                 | Medium | Python   |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                         | Easy   | Python   |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy   | Java     |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                         | Easy   | Python   |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Medium | Python   |
 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | Easy   | Python   |
@@ -95,5 +96,6 @@
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                      | Easy   | Python   |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)            | Easy   | Python   |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                              | Medium | Python   |
+| [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                          | Easy   | Java     |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                          | Easy   | Python   |
 | [1971. Find if Path Exists in a Graph](https://leetcode.com/problems/find-if-path-exists-in-a-graph/)                                | Easy   | Python   |
