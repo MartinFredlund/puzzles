@@ -82,6 +82,7 @@
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                                     | Medium | Python   |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | Medium | Python   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy   | Go       |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                             | Easy   | Java     |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                         | Easy   | Python   |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                         | Medium | Python   |
 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)                                           | Medium | Python   |
@@ -99,3 +100,4 @@
 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                          | Easy   | Java     |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                          | Easy   | Python   |
 | [1971. Find if Path Exists in a Graph](https://leetcode.com/problems/find-if-path-exists-in-a-graph/)                                | Easy   | Python   |
+| [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                          | Easy   | Java     |
