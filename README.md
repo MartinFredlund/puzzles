@@ -26,6 +26,7 @@
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)   | Medium | Python   |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                         | Hard   | Python   |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                     | Medium | Python   |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                             | Easy   | Java     |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                            | Medium | Python   |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                  | Medium | Python   |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                  | Easy   | Go       |
