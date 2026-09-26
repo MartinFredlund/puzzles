@@ -1,1 +1,6 @@
 Learnings.md
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
