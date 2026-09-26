@@ -6,6 +6,8 @@
 | ---------------------------------------------------------------------- | ------ | -------- |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | Medium | Python   |
 | [A Different Problem](https://open.kattis.com/problems/different)      | Easy   | Java     |
+| [Blandað Best](https://open.kattis.com/problems/blandadbest)           | Easy   | Java     |
+| [Building Pyramids](https://open.kattis.com/problems/buildingpyramids) | Easy   | Java     |
 | [File Extension](https://open.kattis.com/problems/fileextension)       | Easy   | C++      |
 | [Hello World](https://open.kattis.com/problems/hello)                  | Easy   | Java     |
 | [hipphipphurra](https://open.kattis.com/problems/hipphipphurra)        | Easy   | Go       |
