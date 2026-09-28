@@ -6,6 +6,7 @@
 | ---------------------------------------------------------------------- | ------ | -------- |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | Medium | Python   |
 | [A Different Problem](https://open.kattis.com/problems/different)      | Easy   | Java     |
+| [Arm Coordination](https://open.kattis.com/problems/armcoordination) | Easy   | Java     |
 | [Blandað Best](https://open.kattis.com/problems/blandadbest)           | Easy   | Java     |
 | [Building Pyramids](https://open.kattis.com/problems/buildingpyramids) | Easy   | Java     |
 | [File Extension](https://open.kattis.com/problems/fileextension)       | Easy   | C++      |
