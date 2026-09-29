@@ -13,6 +13,7 @@
 | [Hello World](https://open.kattis.com/problems/hello)                  | Easy   | Java     |
 | [hipphipphurra](https://open.kattis.com/problems/hipphipphurra)        | Easy   | Go       |
 | [Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)         | Easy   | Python   |
+| [Maximum Number of Colinear Points](https://open.kattis.com/problems/maxcolinear) | Easy   | Java     |
 | [Radio Commercials](https://open.kattis.com/problems/commercials)      | Easy   | Python   |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots)        | Easy   | Java     |
 | [Take Two Stones](https://open.kattis.com/problems/taketwostones)      | Easy   | Java     |
